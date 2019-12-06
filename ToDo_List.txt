@@ -1,0 +1,10 @@
+1) Upload Basic Network Packet Processing kernel module
+2) Write a system call 
+3) Write a debugging enablement code
+4) Can you write a small simple filesystem? 
+5) Threading example with spinlocks 
+6) Write a character based device driver 
+7) Write a block based device driver
+8) Do you want to show off your GPU work? (May be)
+9) Write a temperature monitoring mechanism/borrow from sensor's code 
+10) USB driver
